@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.erb": "erb",
+    "iomanip": "cpp",
+    "iostream": "cpp"
+  }
+}
